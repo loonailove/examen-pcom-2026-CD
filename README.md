@@ -26,3 +26,8 @@ daca un server TCP cu host retea locala conectat prin internet la NAT, se poate 
 
 8. rolurile POP3 si SMTP rol
 si cum este asigurata securitatea si autentificarea utilizatorilor
+
++
+cum functioneaza PPPoE
+controlul fluxului la TCP, ce e window?
+algoritmi simetrici vs. asimetrici + despre semnaturi digitale
