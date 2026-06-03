@@ -31,3 +31,7 @@ ALTE INTREBARI:
 1. cum functioneaza PPPoE
 2. controlul fluxului la TCP, ce e window?
 3. algoritmi simetrici vs. asimetrici + despre semnaturi digitale
+
+---
+keywords:
+examen pcom protocoale de comunicatie comunicatii seria cd automatica si calculatoare poli cti
